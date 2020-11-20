@@ -20,7 +20,7 @@ Sistema de cadastro de pessoas que foram desencapadas por qualquer motivo possam
 
 ## MVC
 
-[![Screenshot of Website](mvc.png)]
+![Screenshot ](mvc.png)
 
 ### Alunos
 
